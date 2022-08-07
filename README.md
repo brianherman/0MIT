@@ -26,7 +26,7 @@ language removed fills this need.
 
 
 ```
-MIT No Attribution
+0MIT or MIT No Attribution
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
